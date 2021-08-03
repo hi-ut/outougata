@@ -36,7 +36,7 @@
       </h1>
 
       <p class="text-center">
-        <v-btn icon class="ma-1" target="_blank" :href="rdfUrl"
+        <v-btn icon class="ma-1" target="_blank" :href="rdfUrl" v-if="isRdf"
           ><img :src="baseUrl + '/img/icons/rdf-logo.svg'" width="24px"
         /></v-btn>
 
@@ -82,7 +82,7 @@
       <v-simple-table class="mt-10">
         <template #default>
           <tbody>
-            <tr>
+            <tr v-if="false">
               <td class="py-4">
                 <v-row>
                   <v-col cols="12" sm="3">{{ $t('description') }}</v-col>
@@ -216,6 +216,7 @@ export default class Item extends Vue {
   item: any = {}
 
   hide: any = process.env.hide
+  isRdf: any = process.env.rdf
 
   async asyncData({ payload, app, $axios }: any) {
     if (payload) {
