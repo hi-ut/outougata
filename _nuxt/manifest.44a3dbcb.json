@@ -1,0 +1,12 @@
+{
+  "name": "応答型翻訳支援システム・データセット",
+  "short_name": "応答型",
+  "description": "応答型翻訳支援システムのデータセットを検索するプロトタイプシステムです。",
+  "icons": [],
+  "start_url": "/outougata/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "lang": "ja",
+  "orientation": "portrait"
+}
