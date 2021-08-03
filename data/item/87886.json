@@ -8,6 +8,9 @@
     "ローマ字1": [
         "kankyoku"
     ],
+    "ローマ字1_mod": [
+        "kankyoku"
+    ],
     "ローマ字2": [
         "kankyoku"
     ],
@@ -21,6 +24,9 @@
         "Paul Varley and Kumakura Isao, eds."
     ],
     "見出し読み": [
+        "かんきょく"
+    ],
+    "見出し読み_mod": [
         "かんきょく"
     ]
 }

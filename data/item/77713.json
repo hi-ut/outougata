@@ -5,6 +5,9 @@
     "ローマ字1": [
         "[monogoto]"
     ],
+    "ローマ字1_mod": [
+        "monogoto]"
+    ],
     "ローマ字2": [
         "monogoto"
     ],
@@ -18,6 +21,9 @@
         "Marco Gottardo  (Umezawa Fumiko, co-ed.)"
     ],
     "見出し読み": [
+        "ものごと"
+    ],
+    "見出し読み_mod": [
         "ものごと"
     ]
 }

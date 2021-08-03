@@ -8,6 +8,9 @@
     "ローマ字1": [
         "oshiita-toko"
     ],
+    "ローマ字1_mod": [
+        "oshiita toko"
+    ],
     "ローマ字2": [
         "oshiitatoko"
     ],
@@ -21,6 +24,9 @@
         "Paul Varley and Kumakura Isao, eds."
     ],
     "見出し読み": [
+        "おしいたとこ"
+    ],
+    "見出し読み_mod": [
         "おしいたとこ"
     ]
 }

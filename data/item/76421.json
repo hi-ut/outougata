@@ -5,6 +5,9 @@
     "ローマ字1": [
         "ichi no mai"
     ],
+    "ローマ字1_mod": [
+        "ichi no mai"
+    ],
     "ローマ字2": [
         "ichinomai"
     ],
@@ -18,6 +21,9 @@
         "Robinson, Matthew (compiler); Piggott, Joan R. (ed.)"
     ],
     "見出し読み": [
+        "いちのまい"
+    ],
+    "見出し読み_mod": [
         "いちのまい"
     ]
 }

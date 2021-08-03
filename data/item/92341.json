@@ -8,6 +8,9 @@
     "ローマ字1": [
         "Gon-kami"
     ],
+    "ローマ字1_mod": [
+        "Gon kami"
+    ],
     "ローマ字2": [
         "gonkami"
     ],
@@ -21,6 +24,9 @@
         "Reischauer, Jean and Robert"
     ],
     "見出し読み": [
+        "ごんかみ"
+    ],
+    "見出し読み_mod": [
         "ごんかみ"
     ]
 }

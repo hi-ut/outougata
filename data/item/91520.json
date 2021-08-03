@@ -5,6 +5,9 @@
     "ローマ字1": [
         "hanseki-hōkan"
     ],
+    "ローマ字1_mod": [
+        "hanseki hōkan"
+    ],
     "ローマ字2": [
         "hanseki-hokan"
     ],
@@ -18,6 +21,9 @@
         "Beasley, William G."
     ],
     "見出し読み": [
+        "はんせきほうかん"
+    ],
+    "見出し読み_mod": [
         "はんせきほうかん"
     ]
 }

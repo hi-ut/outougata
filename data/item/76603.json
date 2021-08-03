@@ -5,6 +5,9 @@
     "ローマ字1": [
         "chokusen"
     ],
+    "ローマ字1_mod": [
+        "chokusen"
+    ],
     "ローマ字2": [
         "chokusen"
     ],
@@ -18,6 +21,9 @@
         "Robinson, Matthew (compiler); Piggott, Joan R. (ed.)"
     ],
     "見出し読み": [
+        "ちょくせん"
+    ],
+    "見出し読み_mod": [
         "ちょくせん"
     ]
 }

@@ -5,6 +5,9 @@
     "ローマ字1": [
         "za su"
     ],
+    "ローマ字1_mod": [
+        "za su"
+    ],
     "ローマ字2": [
         "zasu"
     ],
@@ -18,6 +21,9 @@
         "Robinson, Matthew (compiler); Piggott, Joan R. (ed.)"
     ],
     "見出し読み": [
+        "ざす"
+    ],
+    "見出し読み_mod": [
         "ざす"
     ]
 }

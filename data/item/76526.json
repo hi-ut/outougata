@@ -5,6 +5,9 @@
     "ローマ字1": [
         "sandai"
     ],
+    "ローマ字1_mod": [
+        "sandai"
+    ],
     "ローマ字2": [
         "sandai"
     ],
@@ -18,6 +21,9 @@
         "Robinson, Matthew (compiler); Piggott, Joan R. (ed.)"
     ],
     "見出し読み": [
+        "さんだい"
+    ],
+    "見出し読み_mod": [
         "さんだい"
     ]
 }

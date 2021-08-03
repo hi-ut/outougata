@@ -5,6 +5,9 @@
     "ローマ字1": [
         "tameshi"
     ],
+    "ローマ字1_mod": [
+        "tameshi"
+    ],
     "ローマ字2": [
         "tameshi"
     ],
@@ -18,6 +21,9 @@
         "Robinson, Matthew (compiler); Piggott, Joan R. (ed.)"
     ],
     "見出し読み": [
+        "ためし"
+    ],
+    "見出し読み_mod": [
         "ためし"
     ]
 }

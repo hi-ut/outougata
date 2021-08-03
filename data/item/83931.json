@@ -8,6 +8,9 @@
     "ローマ字1": [
         "jinja"
     ],
+    "ローマ字1_mod": [
+        "jinja"
+    ],
     "ローマ字2": [
         "jinja"
     ],
@@ -21,6 +24,9 @@
         "Kaempfer, Engelbert; ed. trans. annot. by Beatrice M. Bodart-Bailey"
     ],
     "見出し読み": [
+        "じんじゃ"
+    ],
+    "見出し読み_mod": [
         "じんじゃ"
     ]
 }

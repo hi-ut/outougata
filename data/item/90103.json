@@ -8,6 +8,9 @@
     "ローマ字1": [
         "uchino"
     ],
+    "ローマ字1_mod": [
+        "uchino"
+    ],
     "ローマ字2": [
         "uchino"
     ],
@@ -21,6 +24,9 @@
         "McCullough, William and Helen"
     ],
     "見出し読み": [
+        "うちの"
+    ],
+    "見出し読み_mod": [
         "うちの"
     ]
 }

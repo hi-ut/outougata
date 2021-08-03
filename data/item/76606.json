@@ -5,6 +5,9 @@
     "ローマ字1": [
         "chokuninkan"
     ],
+    "ローマ字1_mod": [
+        "chokuninkan"
+    ],
     "ローマ字2": [
         "chokuninkan"
     ],
@@ -18,6 +21,9 @@
         "Robinson, Matthew (compiler); Piggott, Joan R. (ed.)"
     ],
     "見出し読み": [
+        "ちょくにんかん"
+    ],
+    "見出し読み_mod": [
         "ちょくにんかん"
     ]
 }

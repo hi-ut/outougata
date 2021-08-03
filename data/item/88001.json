@@ -8,6 +8,9 @@
     "ローマ字1": [
         "shugo"
     ],
+    "ローマ字1_mod": [
+        "shugo"
+    ],
     "ローマ字2": [
         "shugo"
     ],
@@ -21,6 +24,9 @@
         "Paul Varley and Kumakura Isao, eds."
     ],
     "見出し読み": [
+        "しゅご"
+    ],
+    "見出し読み_mod": [
         "しゅご"
     ]
 }

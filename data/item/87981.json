@@ -8,6 +8,9 @@
     "ローマ字1": [
         "sengoku daimyō"
     ],
+    "ローマ字1_mod": [
+        "sengoku daimyō"
+    ],
     "ローマ字2": [
         "sengokudaimyo"
     ],
@@ -21,6 +24,9 @@
         "Paul Varley and Kumakura Isao, eds."
     ],
     "見出し読み": [
+        "せんごくだいみょう"
+    ],
+    "見出し読み_mod": [
         "せんごくだいみょう"
     ]
 }

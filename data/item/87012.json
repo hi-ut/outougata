@@ -8,6 +8,9 @@
     "ローマ字1": [
         "Nihon kokushu"
     ],
+    "ローマ字1_mod": [
+        "Nihon kokushu"
+    ],
     "ローマ字2": [
         "nihonkokushu"
     ],
@@ -21,6 +24,9 @@
         "Hall, John Whitney (ed.)"
     ],
     "見出し読み": [
+        "にほんこくしゅ"
+    ],
+    "見出し読み_mod": [
         "にほんこくしゅ"
     ]
 }

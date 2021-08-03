@@ -8,6 +8,9 @@
     "ローマ字1": [
         "dai-tenmoku"
     ],
+    "ローマ字1_mod": [
+        "dai tenmoku"
+    ],
     "ローマ字2": [
         "daitenmoku"
     ],
@@ -21,6 +24,9 @@
         "Paul Varley and Kumakura Isao, eds."
     ],
     "見出し読み": [
+        "だいてんもく"
+    ],
+    "見出し読み_mod": [
         "だいてんもく"
     ]
 }

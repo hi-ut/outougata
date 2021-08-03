@@ -8,6 +8,9 @@
     "ローマ字1": [
         "Butsumyō-e"
     ],
+    "ローマ字1_mod": [
+        "Butsumyō e"
+    ],
     "ローマ字2": [
         "butsumyoe"
     ],
@@ -21,6 +24,9 @@
         "Reischauer, Jean and Robert"
     ],
     "見出し読み": [
+        "ぶつみょうえ"
+    ],
+    "見出し読み_mod": [
         "ぶつみょうえ"
     ]
 }

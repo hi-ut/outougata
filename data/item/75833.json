@@ -5,6 +5,9 @@
     "ローマ字1": [
         "toga"
     ],
+    "ローマ字1_mod": [
+        "toga"
+    ],
     "ローマ字2": [
         "toga"
     ],
@@ -18,6 +21,9 @@
         "Wilson, Kevin (compiler); Piggott, Joan R. (ed.)"
     ],
     "見出し読み": [
+        "とが"
+    ],
+    "見出し読み_mod": [
         "とが"
     ]
 }

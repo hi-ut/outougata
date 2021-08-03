@@ -5,6 +5,9 @@
     "ローマ字1": [
         "Kangeki zakki, Hakuto zatsudan, Kanjitsu zasshu, Hogosen"
     ],
+    "ローマ字1_mod": [
+        "Kangeki zakki, Hakuto zatsudan, Kanjitsu zasshu, Hogosen"
+    ],
     "ローマ字2": [
         "Kangeki zakki, Hakuto zatsudan, Kanjitsu zasshu, Hogosen"
     ],
@@ -18,6 +21,9 @@
         "Roberts, Luke S."
     ],
     "見出し読み": [
+        "かんげきざっき, はくとうざつでん, かんじつざっしゅう, ほごせん"
+    ],
+    "見出し読み_mod": [
         "かんげきざっき, はくとうざつでん, かんじつざっしゅう, ほごせん"
     ]
 }

@@ -8,6 +8,9 @@
     "ローマ字1": [
         "katanagari"
     ],
+    "ローマ字1_mod": [
+        "katanagari"
+    ],
     "ローマ字2": [
         "katanagari"
     ],
@@ -21,6 +24,9 @@
         "Hall, John Whitney (ed.)"
     ],
     "見出し読み": [
+        "かたながり"
+    ],
+    "見出し読み_mod": [
         "かたながり"
     ]
 }

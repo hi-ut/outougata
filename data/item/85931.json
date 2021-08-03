@@ -8,6 +8,9 @@
     "ローマ字1": [
         "ten'yaku no kami"
     ],
+    "ローマ字1_mod": [
+        "ten'yaku no kami"
+    ],
     "ローマ字2": [
         "tenyakunokami"
     ],
@@ -21,6 +24,9 @@
         "Borgen, Robert"
     ],
     "見出し読み": [
+        "てんやくのかみ"
+    ],
+    "見出し読み_mod": [
         "てんやくのかみ"
     ]
 }

@@ -8,6 +8,9 @@
     "ローマ字1": [
         "kokubunji"
     ],
+    "ローマ字1_mod": [
+        "kokubunji"
+    ],
     "ローマ字2": [
         "kokubunji"
     ],
@@ -21,6 +24,9 @@
         "Hall, John W. and Mass, Jeffery P."
     ],
     "見出し読み": [
+        "こくぶんじ"
+    ],
+    "見出し読み_mod": [
         "こくぶんじ"
     ]
 }

@@ -5,6 +5,9 @@
     "ローマ字1": [
         "Tadayoshi-sama, Tadatoyo-sama, Toyomasa-sama gozai Edo oirime zōgen hikikurabe oboe"
     ],
+    "ローマ字1_mod": [
+        "Tadayoshi sama, Tadatoyo sama, Toyomasa sama gozai Edo oirime zōgen hikikurabe oboe"
+    ],
     "ローマ字2": [
         "Tadayoshi-sama, Tadatoyo-sama, Toyomasa-sama gozai Edo oirime zogen hikikurabe oboe"
     ],
@@ -18,6 +21,9 @@
         "Roberts, Luke S."
     ],
     "見出し読み": [
+        "ただよしさま、ただとよさま、とよまささまございえどおいりめぞうげんひきくらべおぼえ"
+    ],
+    "見出し読み_mod": [
         "ただよしさま、ただとよさま、とよまささまございえどおいりめぞうげんひきくらべおぼえ"
     ]
 }

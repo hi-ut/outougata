@@ -8,6 +8,9 @@
     "ローマ字1": [
         "higashi no ichi"
     ],
+    "ローマ字1_mod": [
+        "higashi no ichi"
+    ],
     "ローマ字2": [
         "higashinoichi"
     ],
@@ -21,6 +24,9 @@
         "Shiveley, D. and W. McCullough (ed.)"
     ],
     "見出し読み": [
+        "ひがしのいち"
+    ],
+    "見出し読み_mod": [
         "ひがしのいち"
     ]
 }

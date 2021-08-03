@@ -5,6 +5,9 @@
     "ローマ字1": [
         "[mata wa]"
     ],
+    "ローマ字1_mod": [
+        "mata wa]"
+    ],
     "ローマ字2": [
         "matawa"
     ],
@@ -18,6 +21,9 @@
         "Marco Gottardo  (Umezawa Fumiko, co-ed.)"
     ],
     "見出し読み": [
+        "または"
+    ],
+    "見出し読み_mod": [
         "または"
     ]
 }

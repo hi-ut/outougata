@@ -5,6 +5,9 @@
     "ローマ字1": [
         "higashi bisashi"
     ],
+    "ローマ字1_mod": [
+        "higashi bisashi"
+    ],
     "ローマ字2": [
         "higashibisashi"
     ],
@@ -18,6 +21,9 @@
         "Robinson, Matthew (compiler); Piggott, Joan R. (ed.)"
     ],
     "見出し読み": [
+        "ひがしびさし"
+    ],
+    "見出し読み_mod": [
         "ひがしびさし"
     ]
 }

@@ -8,6 +8,9 @@
     "ローマ字1": [
         "Yuishiki-ron"
     ],
+    "ローマ字1_mod": [
+        "Yuishiki ron"
+    ],
     "ローマ字2": [
         "yuishikiron"
     ],
@@ -21,6 +24,9 @@
         "McCullough, William and Helen"
     ],
     "見出し読み": [
+        "ゆいしきろん"
+    ],
+    "見出し読み_mod": [
         "ゆいしきろん"
     ]
 }

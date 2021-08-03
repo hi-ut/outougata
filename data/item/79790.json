@@ -5,6 +5,9 @@
     "ローマ字1": [
         "sannichi-kuji (no) kaji kōzui"
     ],
+    "ローマ字1_mod": [
+        "sannichi kuji (no) kaji kōzui"
+    ],
     "ローマ字2": [
         "sannichi-kuji (no) kaji kozui"
     ],
@@ -18,6 +21,9 @@
         "Ruppert, Brian"
     ],
     "見出し読み": [
+        "さんにちくじかじこうずい"
+    ],
+    "見出し読み_mod": [
         "さんにちくじかじこうずい"
     ]
 }

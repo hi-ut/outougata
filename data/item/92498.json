@@ -8,6 +8,9 @@
     "ローマ字1": [
         "Hi-no-omashi-no-goken"
     ],
+    "ローマ字1_mod": [
+        "Hi no omashi no goken"
+    ],
     "ローマ字2": [
         "hinoomashinogoken"
     ],
@@ -21,6 +24,9 @@
         "Reischauer, Jean and Robert"
     ],
     "見出し読み": [
+        "ひのおましのごけん"
+    ],
+    "見出し読み_mod": [
         "ひのおましのごけん"
     ]
 }

@@ -5,6 +5,9 @@
     "ローマ字1": [
         "Toki-dono gosho"
     ],
+    "ローマ字1_mod": [
+        "Toki dono gosho"
+    ],
     "ローマ字2": [
         "Toki-dono gosho"
     ],
@@ -15,6 +18,9 @@
         "Stone, Jacqueline"
     ],
     "見出し読み": [
+        "ときどのごしょ"
+    ],
+    "見出し読み_mod": [
         "ときどのごしょ"
     ]
 }

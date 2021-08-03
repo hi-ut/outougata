@@ -8,6 +8,9 @@
     "ローマ字1": [
         "Shigaku"
     ],
+    "ローマ字1_mod": [
+        "Shigaku"
+    ],
     "ローマ字2": [
         "shigaku"
     ],
@@ -21,6 +24,9 @@
         "McCullough, William and Helen"
     ],
     "見出し読み": [
+        "しがく"
+    ],
+    "見出し読み_mod": [
         "しがく"
     ]
 }

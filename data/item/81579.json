@@ -5,6 +5,9 @@
     "ローマ字1": [
         "Ichijō shō (Eshin-ryū naishō sōjō hōmon shū)"
     ],
+    "ローマ字1_mod": [
+        "Ichijō shō (Eshin ryū naishō sōjō hōmon shū)"
+    ],
     "ローマ字2": [
         "Ichijo sho (Eshin-ryu naisho sojo homon shu)"
     ],
@@ -15,6 +18,9 @@
         "Stone, Jacqueline"
     ],
     "見出し読み": [
+        "いちじょうしょう（えしんりゅうないちょうそうじょうほうもんしゅう）"
+    ],
+    "見出し読み_mod": [
         "いちじょうしょう（えしんりゅうないちょうそうじょうほうもんしゅう）"
     ]
 }

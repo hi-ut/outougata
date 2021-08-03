@@ -5,6 +5,9 @@
     "ローマ字1": [
         "kugo"
     ],
+    "ローマ字1_mod": [
+        "kugo"
+    ],
     "ローマ字2": [
         "kugo"
     ],
@@ -18,6 +21,9 @@
         "Robinson, Matthew (compiler); Piggott, Joan R. (ed.)"
     ],
     "見出し読み": [
+        "くご"
+    ],
+    "見出し読み_mod": [
         "くご"
     ]
 }

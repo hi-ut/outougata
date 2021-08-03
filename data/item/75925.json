@@ -5,6 +5,9 @@
     "ローマ字1": [
         "ichoku"
     ],
+    "ローマ字1_mod": [
+        "ichoku"
+    ],
     "ローマ字2": [
         "ichoku"
     ],
@@ -18,6 +21,9 @@
         "Wilson, Kevin (compiler); Piggott, Joan R. (ed.)"
     ],
     "見出し読み": [
+        "いちょく"
+    ],
+    "見出し読み_mod": [
         "いちょく"
     ]
 }

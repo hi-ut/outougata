@@ -8,6 +8,9 @@
     "ローマ字1": [
         "mono-suki"
     ],
+    "ローマ字1_mod": [
+        "mono suki"
+    ],
     "ローマ字2": [
         "monosuki"
     ],
@@ -21,6 +24,9 @@
         "Paul Varley and Kumakura Isao, eds."
     ],
     "見出し読み": [
+        "ものすき"
+    ],
+    "見出し読み_mod": [
         "ものすき"
     ]
 }

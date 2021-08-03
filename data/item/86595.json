@@ -8,6 +8,9 @@
     "ローマ字1": [
         "kuge sho-hatto"
     ],
+    "ローマ字1_mod": [
+        "kuge sho hatto"
+    ],
     "ローマ字2": [
         "kugeshohatto"
     ],
@@ -21,6 +24,9 @@
         "Nakane, Chie and Ōishi, Shinzaburō; translation edited by Conrad Totman"
     ],
     "見出し読み": [
+        "くげしょはっと"
+    ],
+    "見出し読み_mod": [
         "くげしょはっと"
     ]
 }

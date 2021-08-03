@@ -5,6 +5,9 @@
     "ローマ字1": [
         "[tada tada]"
     ],
+    "ローマ字1_mod": [
+        "tada tada]"
+    ],
     "ローマ字2": [
         "tadatada"
     ],
@@ -18,6 +21,9 @@
         "Marco Gottardo  (Umezawa Fumiko, co-ed.)"
     ],
     "見出し読み": [
+        "ただただ"
+    ],
+    "見出し読み_mod": [
         "ただただ"
     ]
 }

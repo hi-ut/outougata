@@ -8,6 +8,9 @@
     "ローマ字1": [
         "kanjin bikuni"
     ],
+    "ローマ字1_mod": [
+        "kanjin bikuni"
+    ],
     "ローマ字2": [
         "kanjinbikuni"
     ],
@@ -21,6 +24,9 @@
         "Kaempfer, Engelbert; ed. trans. annot. by Beatrice M. Bodart-Bailey"
     ],
     "見出し読み": [
+        "かんじんびくに"
+    ],
+    "見出し読み_mod": [
         "かんじんびくに"
     ]
 }

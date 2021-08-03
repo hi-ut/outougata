@@ -5,6 +5,9 @@
     "ローマ字1": [
         "shigaku"
     ],
+    "ローマ字1_mod": [
+        "shigaku"
+    ],
     "ローマ字2": [
         "shigaku"
     ],
@@ -18,6 +21,9 @@
         "Robinson, Matthew (compiler); Piggott, Joan R. (ed.)"
     ],
     "見出し読み": [
+        "しがく"
+    ],
+    "見出し読み_mod": [
         "しがく"
     ]
 }

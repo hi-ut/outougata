@@ -8,6 +8,9 @@
     "ローマ字1": [
         "monban"
     ],
+    "ローマ字1_mod": [
+        "monban"
+    ],
     "ローマ字2": [
         "monban"
     ],
@@ -21,6 +24,9 @@
         "Kaempfer, Engelbert; ed. trans. annot. by Beatrice M. Bodart-Bailey"
     ],
     "見出し読み": [
+        "もんばん"
+    ],
+    "見出し読み_mod": [
         "もんばん"
     ]
 }

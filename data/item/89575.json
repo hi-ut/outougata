@@ -8,6 +8,9 @@
     "ローマ字1": [
         "kiroku"
     ],
+    "ローマ字1_mod": [
+        "kiroku"
+    ],
     "ローマ字2": [
         "kiroku"
     ],
@@ -21,6 +24,9 @@
         "McCullough, William and Helen"
     ],
     "見出し読み": [
+        "きろく"
+    ],
+    "見出し読み_mod": [
         "きろく"
     ]
 }

@@ -8,6 +8,9 @@
     "ローマ字1": [
         "Daigenkai"
     ],
+    "ローマ字1_mod": [
+        "Daigenkai"
+    ],
     "ローマ字2": [
         "daigenkai"
     ],
@@ -21,6 +24,9 @@
         "Reischauer, Jean and Robert"
     ],
     "見出し読み": [
+        "だいげんかい"
+    ],
+    "見出し読み_mod": [
         "だいげんかい"
     ]
 }

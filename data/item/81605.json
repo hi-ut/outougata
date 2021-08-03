@@ -5,6 +5,9 @@
     "ローマ字1": [
         "Jōdo kuhon no koto"
     ],
+    "ローマ字1_mod": [
+        "Jōdo kuhon no koto"
+    ],
     "ローマ字2": [
         "Jodo kuhon no koto"
     ],
@@ -15,6 +18,9 @@
         "Stone, Jacqueline"
     ],
     "見出し読み": [
+        "じょうどくほんのこと"
+    ],
+    "見出し読み_mod": [
         "じょうどくほんのこと"
     ]
 }

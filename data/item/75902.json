@@ -5,6 +5,9 @@
     "ローマ字1": [
         "kasa"
     ],
+    "ローマ字1_mod": [
+        "kasa"
+    ],
     "ローマ字2": [
         "kasa"
     ],
@@ -18,6 +21,9 @@
         "Wilson, Kevin (compiler); Piggott, Joan R. (ed.)"
     ],
     "見出し読み": [
+        "かさ"
+    ],
+    "見出し読み_mod": [
         "かさ"
     ]
 }

@@ -8,6 +8,9 @@
     "ローマ字1": [
         "yōeki, zatsuyō"
     ],
+    "ローマ字1_mod": [
+        "yōeki, zatsuyō"
+    ],
     "ローマ字2": [
         "yoeki, zatsuyo"
     ],
@@ -21,6 +24,9 @@
         "Reischauer, Jean and Robert"
     ],
     "見出し読み": [
+        "ようえき、ざつよう"
+    ],
+    "見出し読み_mod": [
         "ようえき、ざつよう"
     ]
 }

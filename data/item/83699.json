@@ -8,6 +8,9 @@
     "ローマ字1": [
         "kokusan kaijo"
     ],
+    "ローマ字1_mod": [
+        "kokusan kaijo"
+    ],
     "ローマ字2": [
         "kokusankaijo"
     ],
@@ -21,6 +24,9 @@
         "Ravina, Mark"
     ],
     "見出し読み": [
+        "こくさんかいじょ"
+    ],
+    "見出し読み_mod": [
         "こくさんかいじょ"
     ]
 }

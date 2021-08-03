@@ -5,6 +5,9 @@
     "ローマ字1": [
         "sengyo"
     ],
+    "ローマ字1_mod": [
+        "sengyo"
+    ],
     "ローマ字2": [
         "sengyo"
     ],
@@ -18,6 +21,9 @@
         "Robinson, Matthew (compiler); Piggott, Joan R. (ed.)"
     ],
     "見出し読み": [
+        "せんぎょ"
+    ],
+    "見出し読み_mod": [
         "せんぎょ"
     ]
 }

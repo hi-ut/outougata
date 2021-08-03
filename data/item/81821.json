@@ -5,6 +5,9 @@
     "ローマ字1": [
         "Tendai mon'yō jizai-bō"
     ],
+    "ローマ字1_mod": [
+        "Tendai mon'yō jizai bō"
+    ],
     "ローマ字2": [
         "Tendai mon'yo jizai-bo"
     ],
@@ -15,6 +18,9 @@
         "Stone, Jacqueline"
     ],
     "見出し読み": [
+        "てんだいもんようじざいぼう"
+    ],
+    "見出し読み_mod": [
         "てんだいもんようじざいぼう"
     ]
 }

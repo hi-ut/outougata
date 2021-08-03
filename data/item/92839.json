@@ -8,6 +8,9 @@
     "ローマ字1": [
         "Ten'yaku"
     ],
+    "ローマ字1_mod": [
+        "Ten'yaku"
+    ],
     "ローマ字2": [
         "Ten'yaku"
     ],
@@ -21,6 +24,9 @@
         "Reischauer, Jean and Robert"
     ],
     "見出し読み": [
+        "てんやく"
+    ],
+    "見出し読み_mod": [
         "てんやく"
     ]
 }

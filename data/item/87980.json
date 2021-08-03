@@ -8,6 +8,9 @@
     "ローマ字1": [
         "sencha"
     ],
+    "ローマ字1_mod": [
+        "sencha"
+    ],
     "ローマ字2": [
         "sencha"
     ],
@@ -21,6 +24,9 @@
         "Paul Varley and Kumakura Isao, eds."
     ],
     "見出し読み": [
+        "せんちゃ"
+    ],
+    "見出し読み_mod": [
         "せんちゃ"
     ]
 }

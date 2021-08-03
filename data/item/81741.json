@@ -5,6 +5,9 @@
     "ローマ字1": [
         "Soshitsuji kara-kyō ryakusho"
     ],
+    "ローマ字1_mod": [
+        "Soshitsuji kara kyō ryakusho"
+    ],
     "ローマ字2": [
         "Sashitsuji-kyo sho (Soshitsuji kara-kyo ryakusho)"
     ],
@@ -15,6 +18,9 @@
         "Stone, Jacqueline"
     ],
     "見出し読み": [
+        "そしつじからきょうりゃくしょ"
+    ],
+    "見出し読み_mod": [
         "そしつじからきょうりゃくしょ"
     ]
 }

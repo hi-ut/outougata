@@ -8,6 +8,9 @@
     "ローマ字1": [
         "Gon-suke"
     ],
+    "ローマ字1_mod": [
+        "Gon suke"
+    ],
     "ローマ字2": [
         "gonsuke"
     ],
@@ -21,6 +24,9 @@
         "Reischauer, Jean and Robert"
     ],
     "見出し読み": [
+        "ごんすけ"
+    ],
+    "見出し読み_mod": [
         "ごんすけ"
     ]
 }

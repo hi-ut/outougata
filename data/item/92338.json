@@ -8,6 +8,9 @@
     "ローマ字1": [
         "Gon-dainagon"
     ],
+    "ローマ字1_mod": [
+        "Gon dainagon"
+    ],
     "ローマ字2": [
         "gondainagon"
     ],
@@ -21,6 +24,9 @@
         "Reischauer, Jean and Robert"
     ],
     "見出し読み": [
+        "ごんだいなごん"
+    ],
+    "見出し読み_mod": [
         "ごんだいなごん"
     ]
 }

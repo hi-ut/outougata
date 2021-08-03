@@ -8,6 +8,9 @@
     "ローマ字1": [
         "e-toki"
     ],
+    "ローマ字1_mod": [
+        "e toki"
+    ],
     "ローマ字2": [
         "etoki"
     ],
@@ -21,6 +24,9 @@
         "Nakane, Chie and Ōishi, Shinzaburō; translation edited by Conrad Totman"
     ],
     "見出し読み": [
+        "えとき"
+    ],
+    "見出し読み_mod": [
         "えとき"
     ]
 }

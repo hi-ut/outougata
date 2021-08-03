@@ -8,6 +8,9 @@
     "ローマ字1": [
         "TENJI"
     ],
+    "ローマ字1_mod": [
+        "TENJI"
+    ],
     "ローマ字2": [
         "tenji"
     ],
@@ -18,6 +21,9 @@
         "Tomoyasu Kato,Seiitiro Seno,Yasushi Toriumi,Yasunari Maruyama"
     ],
     "見出し読み": [
+        "てんじ"
+    ],
+    "見出し読み_mod": [
         "てんじ"
     ],
     "説明文": [

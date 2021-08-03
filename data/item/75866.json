@@ -5,6 +5,9 @@
     "ローマ字1": [
         "kenseki"
     ],
+    "ローマ字1_mod": [
+        "kenseki"
+    ],
     "ローマ字2": [
         "kenseki"
     ],
@@ -18,6 +21,9 @@
         "Wilson, Kevin (compiler); Piggott, Joan R. (ed.)"
     ],
     "見出し読み": [
+        "けんせき"
+    ],
+    "見出し読み_mod": [
         "けんせき"
     ]
 }

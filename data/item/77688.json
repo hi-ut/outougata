@@ -5,6 +5,9 @@
     "ローマ字1": [
         "[kaette]"
     ],
+    "ローマ字1_mod": [
+        "kaette]"
+    ],
     "ローマ字2": [
         "kaette"
     ],
@@ -18,6 +21,9 @@
         "Marco Gottardo  (Umezawa Fumiko, co-ed.)"
     ],
     "見出し読み": [
+        "かえって"
+    ],
+    "見出し読み_mod": [
         "かえって"
     ]
 }

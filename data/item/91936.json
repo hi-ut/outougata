@@ -8,6 +8,9 @@
     "ローマ字1": [
         "Chinsho"
     ],
+    "ローマ字1_mod": [
+        "Chinsho"
+    ],
     "ローマ字2": [
         "chinsho"
     ],
@@ -21,6 +24,9 @@
         "Reischauer, Jean and Robert"
     ],
     "見出し読み": [
+        "ちんしょ"
+    ],
+    "見出し読み_mod": [
         "ちんしょ"
     ]
 }

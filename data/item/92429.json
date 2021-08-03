@@ -8,6 +8,9 @@
     "ローマ字1": [
         "Harima-fudoki"
     ],
+    "ローマ字1_mod": [
+        "Harima fudoki"
+    ],
     "ローマ字2": [
         "harimafudoki"
     ],
@@ -21,6 +24,9 @@
         "Reischauer, Jean and Robert"
     ],
     "見出し読み": [
+        "はりまふどき"
+    ],
+    "見出し読み_mod": [
         "はりまふどき"
     ]
 }
