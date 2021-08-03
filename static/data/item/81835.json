@@ -5,6 +5,9 @@
     "ローマ字1": [
         "Ueno-dono haha ama gozen gohenji"
     ],
+    "ローマ字1_mod": [
+        "Ueno dono haha ama gozen gohenji"
+    ],
     "ローマ字2": [
         "Ueno-dono haha ama gozen gohenji"
     ],
@@ -15,6 +18,9 @@
         "Stone, Jacqueline"
     ],
     "見出し読み": [
+        "うえのどのははあまごぜんごへんじ"
+    ],
+    "見出し読み_mod": [
         "うえのどのははあまごぜんごへんじ"
     ]
 }

@@ -8,6 +8,9 @@
     "ローマ字1": [
         "sakaya-dokurayaku"
     ],
+    "ローマ字1_mod": [
+        "sakaya dokurayaku"
+    ],
     "ローマ字2": [
         "sakaya dokurayaku"
     ],
@@ -21,6 +24,9 @@
         "Wakita, Haruko"
     ],
     "見出し読み": [
+        "さかやどくらやく"
+    ],
+    "見出し読み_mod": [
         "さかやどくらやく"
     ]
 }

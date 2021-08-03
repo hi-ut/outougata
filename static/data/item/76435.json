@@ -5,6 +5,9 @@
     "ローマ字1": [
         "uma no kami"
     ],
+    "ローマ字1_mod": [
+        "uma no kami"
+    ],
     "ローマ字2": [
         "umanokami"
     ],
@@ -18,6 +21,9 @@
         "Robinson, Matthew (compiler); Piggott, Joan R. (ed.)"
     ],
     "見出し読み": [
+        "うまのかみ"
+    ],
+    "見出し読み_mod": [
         "うまのかみ"
     ]
 }

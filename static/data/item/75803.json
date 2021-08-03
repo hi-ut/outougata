@@ -5,6 +5,9 @@
     "ローマ字1": [
         "hakarigoto"
     ],
+    "ローマ字1_mod": [
+        "hakarigoto"
+    ],
     "ローマ字2": [
         "hakarigoto"
     ],
@@ -18,6 +21,9 @@
         "Wilson, Kevin (compiler); Piggott, Joan R. (ed.)"
     ],
     "見出し読み": [
+        "はかりごと"
+    ],
+    "見出し読み_mod": [
         "はかりごと"
     ]
 }

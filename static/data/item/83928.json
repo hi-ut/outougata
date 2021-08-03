@@ -8,6 +8,9 @@
     "ローマ字1": [
         "jikkai"
     ],
+    "ローマ字1_mod": [
+        "jikkai"
+    ],
     "ローマ字2": [
         "jikkai"
     ],
@@ -21,6 +24,9 @@
         "Kaempfer, Engelbert; ed. trans. annot. by Beatrice M. Bodart-Bailey"
     ],
     "見出し読み": [
+        "じっかい"
+    ],
+    "見出し読み_mod": [
         "じっかい"
     ]
 }

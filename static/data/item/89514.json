@@ -8,6 +8,9 @@
     "ローマ字1": [
         "kamuagari"
     ],
+    "ローマ字1_mod": [
+        "kamuagari"
+    ],
     "ローマ字2": [
         "kamuagari"
     ],
@@ -21,6 +24,9 @@
         "McCullough, William and Helen"
     ],
     "見出し読み": [
+        "かむあがり"
+    ],
+    "見出し読み_mod": [
         "かむあがり"
     ]
 }

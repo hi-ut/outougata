@@ -8,6 +8,9 @@
     "ローマ字1": [
         "Jōgan-shiki"
     ],
+    "ローマ字1_mod": [
+        "Jōgan shiki"
+    ],
     "ローマ字2": [
         "Jogan-shiki"
     ],
@@ -21,6 +24,9 @@
         "Reischauer, Jean and Robert"
     ],
     "見出し読み": [
+        "じょうがんしき"
+    ],
+    "見出し読み_mod": [
         "じょうがんしき"
     ]
 }

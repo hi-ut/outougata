@@ -8,6 +8,9 @@
     "ローマ字1": [
         "Hiroshima [han]"
     ],
+    "ローマ字1_mod": [
+        "Hiroshima  han]"
+    ],
     "ローマ字2": [
         "hiroshimahan"
     ],
@@ -21,6 +24,9 @@
         "Hall, John Whitney (ed.)"
     ],
     "見出し読み": [
+        "ひろしまはん"
+    ],
+    "見出し読み_mod": [
         "ひろしまはん"
     ]
 }

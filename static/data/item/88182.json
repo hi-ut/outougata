@@ -8,6 +8,9 @@
     "ローマ字1": [
         "shiki soku ze kū, kū soku ze shiki"
     ],
+    "ローマ字1_mod": [
+        "shiki soku ze kū, kū soku ze shiki"
+    ],
     "ローマ字2": [
         "shikisokuzekukusokuzeshiki"
     ],
@@ -21,6 +24,9 @@
         "Morrell, Robert E."
     ],
     "見出し読み": [
+        "しきぞくぜくうくうぞくぜしき"
+    ],
+    "見出し読み_mod": [
         "しきぞくぜくうくうぞくぜしき"
     ]
 }

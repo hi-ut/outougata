@@ -8,6 +8,9 @@
     "ローマ字1": [
         "sashidashi"
     ],
+    "ローマ字1_mod": [
+        "sashidashi"
+    ],
     "ローマ字2": [
         "sashidashi"
     ],
@@ -21,6 +24,9 @@
         "Hall, John Whitney (ed.)"
     ],
     "見出し読み": [
+        "さしだし"
+    ],
+    "見出し読み_mod": [
         "さしだし"
     ]
 }

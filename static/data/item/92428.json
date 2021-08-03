@@ -8,6 +8,9 @@
     "ローマ字1": [
         "Hari-hakase"
     ],
+    "ローマ字1_mod": [
+        "Hari hakase"
+    ],
     "ローマ字2": [
         "Hari-hakase"
     ],
@@ -21,6 +24,9 @@
         "Reischauer, Jean and Robert"
     ],
     "見出し読み": [
+        "はりはかせ"
+    ],
+    "見出し読み_mod": [
         "はりはかせ"
     ]
 }

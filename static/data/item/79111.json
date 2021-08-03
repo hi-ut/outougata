@@ -8,6 +8,9 @@
     "ローマ字1": [
         "Daishō-ō shinseki chō"
     ],
+    "ローマ字1_mod": [
+        "Daishō ō shinseki chō"
+    ],
     "ローマ字2": [
         "daishooshinsekicho"
     ],
@@ -21,6 +24,9 @@
         "Nara National Museum"
     ],
     "見出し読み": [
+        "だいしょうおうしんせきちょう"
+    ],
+    "見出し読み_mod": [
         "だいしょうおうしんせきちょう"
     ]
 }

@@ -8,6 +8,9 @@
     "ローマ字1": [
         "ukiyo-zōshi"
     ],
+    "ローマ字1_mod": [
+        "ukiyo zōshi"
+    ],
     "ローマ字2": [
         "ukiyozoshi"
     ],
@@ -21,6 +24,9 @@
         "Nakane, Chie and Ōishi, Shinzaburō; translation edited by Conrad Totman"
     ],
     "見出し読み": [
+        "うきよぞうし"
+    ],
+    "見出し読み_mod": [
         "うきよぞうし"
     ]
 }

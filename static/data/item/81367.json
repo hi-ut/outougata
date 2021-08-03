@@ -8,6 +8,9 @@
     "ローマ字1": [
         "shōzei-kōeki"
     ],
+    "ローマ字1_mod": [
+        "shōzei kōeki"
+    ],
     "ローマ字2": [
         "shozeikoeki"
     ],
@@ -21,6 +24,9 @@
         "Shiveley, D. and W. McCullough (ed.)"
     ],
     "見出し読み": [
+        "しょうぜいこうえき"
+    ],
+    "見出し読み_mod": [
         "しょうぜいこうえき"
     ]
 }

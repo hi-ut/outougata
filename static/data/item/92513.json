@@ -8,6 +8,9 @@
     "ローマ字1": [
         "hitsuji-no-toki"
     ],
+    "ローマ字1_mod": [
+        "hitsuji no toki"
+    ],
     "ローマ字2": [
         "hitsuji-no-toki"
     ],
@@ -21,6 +24,9 @@
         "Reischauer, Jean and Robert"
     ],
     "見出し読み": [
+        "ひつじのとき"
+    ],
+    "見出し読み_mod": [
         "ひつじのとき"
     ]
 }

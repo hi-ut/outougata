@@ -5,6 +5,9 @@
     "ローマ字1": [
         "honfuku"
     ],
+    "ローマ字1_mod": [
+        "honfuku"
+    ],
     "ローマ字2": [
         "honfuku"
     ],
@@ -18,6 +21,9 @@
         "Robinson, Matthew (compiler); Piggott, Joan R. (ed.)"
     ],
     "見出し読み": [
+        "ほんふく"
+    ],
+    "見出し読み_mod": [
         "ほんふく"
     ]
 }

@@ -8,6 +8,9 @@
     "ローマ字1": [
         "Chika-jima"
     ],
+    "ローマ字1_mod": [
+        "Chika jima"
+    ],
     "ローマ字2": [
         "Chika-jima"
     ],
@@ -21,6 +24,9 @@
         "Reischauer, Jean and Robert"
     ],
     "見出し読み": [
+        "ちかのしま"
+    ],
+    "見出し読み_mod": [
         "ちかのしま"
     ]
 }

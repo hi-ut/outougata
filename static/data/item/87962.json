@@ -8,6 +8,9 @@
     "ローマ字1": [
         "oyabun-kobun"
     ],
+    "ローマ字1_mod": [
+        "oyabun kobun"
+    ],
     "ローマ字2": [
         "oyabunkobun"
     ],
@@ -21,6 +24,9 @@
         "Paul Varley and Kumakura Isao, eds."
     ],
     "見出し読み": [
+        "おやぶんこぶん"
+    ],
+    "見出し読み_mod": [
         "おやぶんこぶん"
     ]
 }

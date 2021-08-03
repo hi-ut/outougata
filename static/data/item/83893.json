@@ -8,6 +8,9 @@
     "ローマ字1": [
         "hito jichi"
     ],
+    "ローマ字1_mod": [
+        "hito jichi"
+    ],
     "ローマ字2": [
         "hitojichi"
     ],
@@ -21,6 +24,9 @@
         "Kaempfer, Engelbert; ed. trans. annot. by Beatrice M. Bodart-Bailey"
     ],
     "見出し読み": [
+        "ひとじち"
+    ],
+    "見出し読み_mod": [
         "ひとじち"
     ]
 }

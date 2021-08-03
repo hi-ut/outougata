@@ -5,6 +5,9 @@
     "ローマ字1": [
         "hai"
     ],
+    "ローマ字1_mod": [
+        "hai"
+    ],
     "ローマ字2": [
         "hai"
     ],
@@ -18,6 +21,9 @@
         "Robinson, Matthew (compiler); Piggott, Joan R. (ed.)"
     ],
     "見出し読み": [
+        "はい"
+    ],
+    "見出し読み_mod": [
         "はい"
     ]
 }

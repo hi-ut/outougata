@@ -5,6 +5,9 @@
     "ローマ字1": [
         "Nihon daishi sentoku myōshō ki (or Nihon daishi sentoku meishō ki)"
     ],
+    "ローマ字1_mod": [
+        "Nihon daishi sentoku myōshō ki (or Nihon daishi sentoku meishō ki)"
+    ],
     "ローマ字2": [
         "Nihon daishi sentoku myosho ki (or Nihon daishi sentoku meisho ki)"
     ],
@@ -15,6 +18,9 @@
         "Stone, Jacqueline"
     ],
     "見出し読み": [
+        "にほんだいしせんこくみょうしょうき（にほんだいしせんとくめいしょうき）"
+    ],
+    "見出し読み_mod": [
         "にほんだいしせんこくみょうしょうき（にほんだいしせんとくめいしょうき）"
     ]
 }

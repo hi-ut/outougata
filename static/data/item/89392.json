@@ -8,6 +8,9 @@
     "ローマ字1": [
         "hi no koshi"
     ],
+    "ローマ字1_mod": [
+        "hi no koshi"
+    ],
     "ローマ字2": [
         "hinokoshi"
     ],
@@ -21,6 +24,9 @@
         "McCullough, William and Helen"
     ],
     "見出し読み": [
+        "ひのこし"
+    ],
+    "見出し読み_mod": [
         "ひのこし"
     ]
 }

@@ -8,6 +8,9 @@
     "ローマ字1": [
         "nenban"
     ],
+    "ローマ字1_mod": [
+        "nenban"
+    ],
     "ローマ字2": [
         "nenban"
     ],
@@ -21,6 +24,9 @@
         "Kaempfer, Engelbert; ed. trans. annot. by Beatrice M. Bodart-Bailey"
     ],
     "見出し読み": [
+        "ねんばん"
+    ],
+    "見出し読み_mod": [
         "ねんばん"
     ]
 }

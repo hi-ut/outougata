@@ -8,6 +8,9 @@
     "ローマ字1": [
         "shichi-tetsu"
     ],
+    "ローマ字1_mod": [
+        "shichi tetsu"
+    ],
     "ローマ字2": [
         "shichitetsu"
     ],
@@ -21,6 +24,9 @@
         "Paul Varley and Kumakura Isao, eds."
     ],
     "見出し読み": [
+        "しちてつ"
+    ],
+    "見出し読み_mod": [
         "しちてつ"
     ]
 }

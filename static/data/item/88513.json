@@ -8,6 +8,9 @@
     "ローマ字1": [
         "jōka-ichimachi"
     ],
+    "ローマ字1_mod": [
+        "jōka ichimachi"
+    ],
     "ローマ字2": [
         "joka ichimachi"
     ],
@@ -21,6 +24,9 @@
         "Wakita, Haruko"
     ],
     "見出し読み": [
+        "じょうかいちまち"
+    ],
+    "見出し読み_mod": [
         "じょうかいちまち"
     ]
 }

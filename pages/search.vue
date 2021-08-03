@@ -582,13 +582,9 @@ export default {
         }
 
         for (const v of value) {
-
-          //要検討
           if(!v){
             continue
           }
-          v = v.split("[").join(" ").trim()
-
           if (!map[v]) {
             map[v] = []
           }

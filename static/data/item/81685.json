@@ -5,6 +5,9 @@
     "ローマ字1": [
         "Myōhō-renge sanmai himitsu sanmaya kyō Renge sanmai-kyō."
     ],
+    "ローマ字1_mod": [
+        "Myōhō renge sanmai himitsu sanmaya kyō Renge sanmai kyō."
+    ],
     "ローマ字2": [
         "Myoho-renge sanmai himitsu sanmaya kyo."
     ],
@@ -15,6 +18,9 @@
         "Stone, Jacqueline"
     ],
     "見出し読み": [
+        "みょうほうれんげさんまいひみつさんまやきょう"
+    ],
+    "見出し読み_mod": [
         "みょうほうれんげさんまいひみつさんまやきょう"
     ]
 }

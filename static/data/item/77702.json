@@ -5,6 +5,9 @@
     "ローマ字1": [
         "[kore ari]"
     ],
+    "ローマ字1_mod": [
+        "kore ari]"
+    ],
     "ローマ字2": [
         "koreari"
     ],
@@ -18,6 +21,9 @@
         "Marco Gottardo  (Umezawa Fumiko, co-ed.)"
     ],
     "見出し読み": [
+        "これあり"
+    ],
+    "見出し読み_mod": [
         "これあり"
     ]
 }

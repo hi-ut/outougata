@@ -5,6 +5,9 @@
     "ローマ字1": [
         "Kōseishi ogakusoku"
     ],
+    "ローマ字1_mod": [
+        "Kōseishi ogakusoku"
+    ],
     "ローマ字2": [
         "Koseishi ogakusoku"
     ],
@@ -18,6 +21,9 @@
         "Roberts, Luke S."
     ],
     "見出し読み": [
+        "こうせいしおがくそく"
+    ],
+    "見出し読み_mod": [
         "こうせいしおがくそく"
     ]
 }

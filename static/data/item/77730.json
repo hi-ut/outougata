@@ -5,6 +5,9 @@
     "ローマ字1": [
         "[ori ori]"
     ],
+    "ローマ字1_mod": [
+        "ori ori]"
+    ],
     "ローマ字2": [
         "oriori"
     ],
@@ -18,6 +21,9 @@
         "Marco Gottardo  (Umezawa Fumiko, co-ed.)"
     ],
     "見出し読み": [
+        "おりおり"
+    ],
+    "見出し読み_mod": [
         "おりおり"
     ]
 }

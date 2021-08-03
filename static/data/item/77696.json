@@ -5,6 +5,9 @@
     "ローマ字1": [
         "[kenzu]"
     ],
+    "ローマ字1_mod": [
+        "kenzu]"
+    ],
     "ローマ字2": [
         "kenzu"
     ],
@@ -18,6 +21,9 @@
         "Marco Gottardo  (Umezawa Fumiko, co-ed.)"
     ],
     "見出し読み": [
+        "けんず"
+    ],
+    "見出し読み_mod": [
         "けんず"
     ]
 }

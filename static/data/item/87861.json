@@ -8,6 +8,9 @@
     "ローマ字1": [
         "ichigo, ichie"
     ],
+    "ローマ字1_mod": [
+        "ichigo, ichie"
+    ],
     "ローマ字2": [
         "ichigoichie"
     ],
@@ -21,6 +24,9 @@
         "Paul Varley and Kumakura Isao, eds."
     ],
     "見出し読み": [
+        "いちごいちえ"
+    ],
+    "見出し読み_mod": [
         "いちごいちえ"
     ]
 }

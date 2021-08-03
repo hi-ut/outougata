@@ -8,6 +8,9 @@
     "ローマ字1": [
         "shōbanseki"
     ],
+    "ローマ字1_mod": [
+        "shōbanseki"
+    ],
     "ローマ字2": [
         "shobanseki"
     ],
@@ -21,6 +24,9 @@
         "Paul Varley and Kumakura Isao, eds."
     ],
     "見出し読み": [
+        "しょうばんせき"
+    ],
+    "見出し読み_mod": [
         "しょうばんせき"
     ]
 }

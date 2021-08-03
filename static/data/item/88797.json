@@ -8,6 +8,9 @@
     "ローマ字1": [
         "dojidō,dochidō,tsuchidō,doji"
     ],
+    "ローマ字1_mod": [
+        "dojidō,dochidō,tsuchidō,doji"
+    ],
     "ローマ字2": [
         "dojido,dochido,tsuchido,doji"
     ],
@@ -21,6 +24,9 @@
         "Coｌlcutt, Martin"
     ],
     "見出し読み": [
+        "どじどう,どちどう,つちどう,どじ"
+    ],
+    "見出し読み_mod": [
         "どじどう,どちどう,つちどう,どじ"
     ]
 }

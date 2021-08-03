@@ -8,6 +8,9 @@
     "ローマ字1": [
         "shoin-zukuri"
     ],
+    "ローマ字1_mod": [
+        "shoin zukuri"
+    ],
     "ローマ字2": [
         "shoinzukuri"
     ],
@@ -21,6 +24,9 @@
         "Paul Varley and Kumakura Isao, eds."
     ],
     "見出し読み": [
+        "しょいんづくり"
+    ],
+    "見出し読み_mod": [
         "しょいんづくり"
     ]
 }

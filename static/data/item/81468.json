@@ -5,6 +5,9 @@
     "ローマ字1": [
         "Dainichi-kyō shiki (Dai Birushana-kyō shiki)"
     ],
+    "ローマ字1_mod": [
+        "Dainichi kyō shiki (Dai Birushana kyō shiki)"
+    ],
     "ローマ字2": [
         "Dainichi-kyo shiki (Dai Birushana-kyo shiki)"
     ],
@@ -15,6 +18,9 @@
         "Stone, Jacqueline"
     ],
     "見出し読み": [
+        "だいにちきょうしき（だいびるしゃなきょうしき）"
+    ],
+    "見出し読み_mod": [
         "だいにちきょうしき（だいびるしゃなきょうしき）"
     ]
 }

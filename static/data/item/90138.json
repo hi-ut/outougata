@@ -8,6 +8,9 @@
     "ローマ字1": [
         "wakana"
     ],
+    "ローマ字1_mod": [
+        "wakana"
+    ],
     "ローマ字2": [
         "wakana"
     ],
@@ -21,6 +24,9 @@
         "McCullough, William and Helen"
     ],
     "見出し読み": [
+        "わかな"
+    ],
+    "見出し読み_mod": [
         "わかな"
     ]
 }

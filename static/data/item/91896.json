@@ -8,6 +8,9 @@
     "ローマ字1": [
         "Bungo-fudoki"
     ],
+    "ローマ字1_mod": [
+        "Bungo fudoki"
+    ],
     "ローマ字2": [
         "bungofudoki"
     ],
@@ -21,6 +24,9 @@
         "Reischauer, Jean and Robert"
     ],
     "見出し読み": [
+        "ぶんごふどき"
+    ],
+    "見出し読み_mod": [
         "ぶんごふどき"
     ]
 }

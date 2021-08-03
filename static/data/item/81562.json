@@ -5,6 +5,9 @@
     "ローマ字1": [
         "Hon'in-myō shō (Hokke honmonshū kechimyaku sōjō no koto)"
     ],
+    "ローマ字1_mod": [
+        "Hon'in myō shō (Hokke honmonshū kechimyaku sōjō no koto)"
+    ],
     "ローマ字2": [
         "Hon'in-myo sho (Hokke honmonshu kechimyaku sojo no koto)"
     ],
@@ -15,6 +18,9 @@
         "Stone, Jacqueline"
     ],
     "見出し読み": [
+        "ほんいんみょうしょう"
+    ],
+    "見出し読み_mod": [
         "ほんいんみょうしょう"
     ]
 }

@@ -5,6 +5,9 @@
     "ローマ字1": [
         "[moshi]"
     ],
+    "ローマ字1_mod": [
+        "moshi]"
+    ],
     "ローマ字2": [
         "moshi"
     ],
@@ -18,6 +21,9 @@
         "Marco Gottardo  (Umezawa Fumiko, co-ed.)"
     ],
     "見出し読み": [
+        "もし"
+    ],
+    "見出し読み_mod": [
         "もし"
     ]
 }

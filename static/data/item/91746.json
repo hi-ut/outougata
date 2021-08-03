@@ -8,6 +8,9 @@
     "ローマ字1": [
         "Amida-no-sanzon"
     ],
+    "ローマ字1_mod": [
+        "Amida no sanzon"
+    ],
     "ローマ字2": [
         "amidanosanzon"
     ],
@@ -21,6 +24,9 @@
         "Reischauer, Jean and Robert"
     ],
     "見出し読み": [
+        "あみだのさんぞん"
+    ],
+    "見出し読み_mod": [
         "あみだのさんぞん"
     ]
 }

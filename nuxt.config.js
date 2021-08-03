@@ -34,8 +34,8 @@ env.aggs = {
     open:true
   },
 
-  見出し読み: {
-    key: "見出し読み",
+  見出し読み_mod: {
+    key: "見出し読み_mod",
     sort: '',
     label: '見出し読み',
     value: {},
@@ -43,8 +43,8 @@ env.aggs = {
     open:true,
     hide: true
   },
-  ローマ字1: {
-    key: "ローマ字1",
+  ローマ字1_mod: {
+    key: "ローマ字1_mod",
     sort: '',
     label: 'ローマ字',
     value: {},
@@ -104,8 +104,8 @@ env.detail = [
 
 env.sort = [
   {label: "適合度", value: "_score"},
-  {label: "見出し読み", value: "見出し読み"},
-  {label: "ローマ字", value: "ローマ字1"},
+  {label: "見出し読み", value: "見出し読み_mod"},
+  {label: "ローマ字", value: "ローマ字1_mod"},
 ]
 
 env.defaultSort = "_score:desc"

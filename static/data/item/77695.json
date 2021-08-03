@@ -5,6 +5,9 @@
     "ローマ字1": [
         "[katsu]"
     ],
+    "ローマ字1_mod": [
+        "katsu]"
+    ],
     "ローマ字2": [
         "katsu"
     ],
@@ -18,6 +21,9 @@
         "Marco Gottardo  (Umezawa Fumiko, co-ed.)"
     ],
     "見出し読み": [
+        "かつ"
+    ],
+    "見出し読み_mod": [
         "かつ"
     ]
 }

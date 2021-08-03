@@ -5,6 +5,9 @@
     "ローマ字1": [
         "[somo somo]"
     ],
+    "ローマ字1_mod": [
+        "somo somo]"
+    ],
     "ローマ字2": [
         "somosomo"
     ],
@@ -18,6 +21,9 @@
         "Marco Gottardo  (Umezawa Fumiko, co-ed.)"
     ],
     "見出し読み": [
+        "そもそも"
+    ],
+    "見出し読み_mod": [
         "そもそも"
     ]
 }

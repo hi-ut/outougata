@@ -8,6 +8,9 @@
     "ローマ字1": [
         "kimono"
     ],
+    "ローマ字1_mod": [
+        "kimono"
+    ],
     "ローマ字2": [
         "kimono"
     ],
@@ -21,6 +24,9 @@
         "Paul Varley and Kumakura Isao, eds."
     ],
     "見出し読み": [
+        "きもの"
+    ],
+    "見出し読み_mod": [
         "きもの"
     ]
 }

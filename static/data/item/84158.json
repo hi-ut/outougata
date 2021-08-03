@@ -8,6 +8,9 @@
     "ローマ字1": [
         "seijin"
     ],
+    "ローマ字1_mod": [
+        "seijin"
+    ],
     "ローマ字2": [
         "seijin"
     ],
@@ -21,6 +24,9 @@
         "Kaempfer, Engelbert; ed. trans. annot. by Beatrice M. Bodart-Bailey"
     ],
     "見出し読み": [
+        "せいじん"
+    ],
+    "見出し読み_mod": [
         "せいじん"
     ]
 }

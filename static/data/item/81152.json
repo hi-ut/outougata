@@ -8,6 +8,9 @@
     "ローマ字1": [
         "hiragana"
     ],
+    "ローマ字1_mod": [
+        "hiragana"
+    ],
     "ローマ字2": [
         "hiragana"
     ],
@@ -21,6 +24,9 @@
         "Shiveley, D. and W. McCullough (ed.)"
     ],
     "見出し読み": [
+        "ひらがな"
+    ],
+    "見出し読み_mod": [
         "ひらがな"
     ],
     "説明文": [

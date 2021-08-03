@@ -5,6 +5,9 @@
     "ローマ字1": [
         "[konpan]"
     ],
+    "ローマ字1_mod": [
+        "konpan]"
+    ],
     "ローマ字2": [
         "konpan"
     ],
@@ -18,6 +21,9 @@
         "Marco Gottardo  (Umezawa Fumiko, co-ed.)"
     ],
     "見出し読み": [
+        "こんぱん"
+    ],
+    "見出し読み_mod": [
         "こんぱん"
     ]
 }

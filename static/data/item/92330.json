@@ -8,6 +8,9 @@
     "ローマ字1": [
         "Gokusui-no-en"
     ],
+    "ローマ字1_mod": [
+        "Gokusui no en"
+    ],
     "ローマ字2": [
         "Gokusui-no-en"
     ],
@@ -21,6 +24,9 @@
         "Reischauer, Jean and Robert"
     ],
     "見出し読み": [
+        "ごくすいのえん"
+    ],
+    "見出し読み_mod": [
         "ごくすいのえん"
     ]
 }

@@ -5,6 +5,9 @@
     "ローマ字1": [
         "konku"
     ],
+    "ローマ字1_mod": [
+        "konku"
+    ],
     "ローマ字2": [
         "konku"
     ],
@@ -18,6 +21,9 @@
         "Robinson, Matthew (compiler); Piggott, Joan R. (ed.)"
     ],
     "見出し読み": [
+        "こんく"
+    ],
+    "見出し読み_mod": [
         "こんく"
     ]
 }

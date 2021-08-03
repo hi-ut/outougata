@@ -8,6 +8,9 @@
     "ローマ字1": [
         "Engishiki"
     ],
+    "ローマ字1_mod": [
+        "Engishiki"
+    ],
     "ローマ字2": [
         "engishiki"
     ],
@@ -21,6 +24,9 @@
         "Piggott, Joan R.and Yoshida Sanae (ed.)"
     ],
     "見出し読み": [
+        "えんぎしき"
+    ],
+    "見出し読み_mod": [
         "えんぎしき"
     ]
 }

@@ -8,6 +8,9 @@
     "ローマ字1": [
         "MANJI"
     ],
+    "ローマ字1_mod": [
+        "MANJI"
+    ],
     "ローマ字2": [
         "manji"
     ],
@@ -18,6 +21,9 @@
         "Tomoyasu Kato,Seiitiro Seno,Yasushi Toriumi,Yasunari Maruyama"
     ],
     "見出し読み": [
+        "まんじ"
+    ],
+    "見出し読み_mod": [
         "まんじ"
     ],
     "説明文": [

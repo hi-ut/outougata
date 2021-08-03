@@ -5,6 +5,9 @@
     "ローマ字1": [
         "chokurei"
     ],
+    "ローマ字1_mod": [
+        "chokurei"
+    ],
     "ローマ字2": [
         "chokurei"
     ],
@@ -18,6 +21,9 @@
         "Robinson, Matthew (compiler); Piggott, Joan R. (ed.)"
     ],
     "見出し読み": [
+        "ちょくれい"
+    ],
+    "見出し読み_mod": [
         "ちょくれい"
     ]
 }

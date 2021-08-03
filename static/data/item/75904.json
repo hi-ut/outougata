@@ -5,6 +5,9 @@
     "ローマ字1": [
         "konmyō"
     ],
+    "ローマ字1_mod": [
+        "konmyō"
+    ],
     "ローマ字2": [
         "konmyo"
     ],
@@ -18,6 +21,9 @@
         "Wilson, Kevin (compiler); Piggott, Joan R. (ed.)"
     ],
     "見出し読み": [
+        "こんみょう"
+    ],
+    "見出し読み_mod": [
         "こんみょう"
     ]
 }

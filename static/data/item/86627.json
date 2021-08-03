@@ -8,6 +8,9 @@
     "ローマ字1": [
         "soba-yōnin"
     ],
+    "ローマ字1_mod": [
+        "soba yōnin"
+    ],
     "ローマ字2": [
         "sobayonin"
     ],
@@ -21,6 +24,9 @@
         "Nakane, Chie and Ōishi, Shinzaburō; translation edited by Conrad Totman"
     ],
     "見出し読み": [
+        "そばようにん"
+    ],
+    "見出し読み_mod": [
         "そばようにん"
     ]
 }

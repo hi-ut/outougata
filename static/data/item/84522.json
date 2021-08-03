@@ -5,6 +5,9 @@
     "ローマ字1": [
         "Tenmei shichi nen hinoto hitsuji doshi Seitokuin-sama on oboegaki, zen"
     ],
+    "ローマ字1_mod": [
+        "Tenmei shichi nen hinoto hitsuji doshi Seitokuin sama on oboegaki, zen"
+    ],
     "ローマ字2": [
         "Tenmei shichi nen hinoto hitsuji doshi Seitokuin-sama on oboegaki, zen"
     ],
@@ -18,6 +21,9 @@
         "Roberts, Luke S."
     ],
     "見出し読み": [
+        "てんめいしちねんひのとひつじどしせいとくいんさまおんおぼえがきぜん"
+    ],
+    "見出し読み_mod": [
         "てんめいしちねんひのとひつじどしせいとくいんさまおんおぼえがきぜん"
     ]
 }

@@ -5,6 +5,9 @@
     "ローマ字1": [
         "tsuwamono-zukuri no tsukasa"
     ],
+    "ローマ字1_mod": [
+        "tsuwamono zukuri no tsukasa"
+    ],
     "ローマ字2": [
         "tsuwamonozukurinotsukasa"
     ],
@@ -18,6 +21,9 @@
         "Friday, Karl F."
     ],
     "見出し読み": [
+        "つわものづくりのつかさ"
+    ],
+    "見出し読み_mod": [
         "つわものづくりのつかさ"
     ]
 }
